@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Listas em HTML</title>
+</head>
+
+<body>
+
+    <h1>Curso de Tecnologia Web </h1>
+
+    <h2>1. Materiais do curso</h2>
+    <p>Os materiais podem ser consultados sem uma ordem específica.</p>
+
+    <ul>
+        <li>Apostila do curso</li>
+        <li>Videoaulas</li>
+        <li>Exercícios complementares</li>
+    </ul>
+
+    <h2>2. Etapas do curso</h2>
+    <p>As etapas devem ser realizadas na sequência apresentada.</p>
+
+    <ol>
+        <li>Ler o conteúdo da apostila</li>
+        <li>Assistir às videoaulas</li>
+        <li>Resolver os exercícios</li>
+    </ol>
+
+    <h2>3. Glossário de termos técnicos</h2>
+    <p>Conheça alguns termos técnicos e suas definições.</p>
+
+    <dl>
+        <dt>HTML</dt>
+        <dd>Linguagem de marcação utilizada para estruturar páginas web.</dd>
+        <dt>CSS</dt>
+        <dd>Linguagem utilizada para definir a aparência das páginas web.</dd>
+        <dt>JavaScript</dt>
+        <dd>Linguagem de programação utilizada para adicionar interatividade às páginas web.</dd>
+    </dl>
+
+</body>
+</html>
